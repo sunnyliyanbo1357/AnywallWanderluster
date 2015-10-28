@@ -1,7 +1,7 @@
 # AnywallWanderluster
 
 
-This is a test version for Wanderluster. We used ParsePlatform Anywall to implement map and user chat log.
+This is a test version for Wanderluster. We used opensource ParsePlatform Anywall to implement map and user chat log.
 
 See more about Anywall: https://github.com/ParsePlatform/AnyWall.git
 
