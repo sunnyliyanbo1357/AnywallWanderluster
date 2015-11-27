@@ -88,6 +88,10 @@ PAWWallPostCreateViewControllerDataSource>
                                                  MKCoordinateSpanMake(0.008516f, 0.021801f));
     self.mapPannedSinceLocationUpdate = NO;
     [self startStandardUpdates];
+    
+    PFObject *testObject = [PFObject objectWithClassName:@"TestObject"];
+    testObject[@"foo"] = @"bar";
+    [testObject saveInBackground];
 }
 
 - (void)viewWillAppear:(BOOL)animated {

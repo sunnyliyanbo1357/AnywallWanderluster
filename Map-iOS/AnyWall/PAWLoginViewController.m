@@ -61,6 +61,11 @@ PAWNewUserViewControllerDelegate>
     [self.view addGestureRecognizer:tapGestureRecognizer];
 
     [self registerForKeyboardNotifications];
+    
+    PFObject *testObject = [PFObject objectWithClassName:@"TestObject"];
+    testObject[@"foo"] = @"bar";
+    [testObject saveInBackground];
+    
 }
 
 - (void)viewWillAppear:(BOOL)animated {

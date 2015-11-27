@@ -345,7 +345,7 @@
 					};
 				};
 			};
-			buildConfigurationList = E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "Anywall" */;
+			buildConfigurationList = E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "AnyWall" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -563,7 +563,7 @@
 				GCC_WARN_UNUSED_FUNCTION = NO;
 				GCC_WARN_UNUSED_LABEL = NO;
 				INFOPLIST_FILE = "AnyWall/AnyWall-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.parsewanderlust.Anywall;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wanderlust.Anywall;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -597,7 +597,7 @@
 				GCC_WARN_UNUSED_FUNCTION = NO;
 				GCC_WARN_UNUSED_LABEL = NO;
 				INFOPLIST_FILE = "AnyWall/AnyWall-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.parsewanderlust.Anywall;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wanderlust.Anywall;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -664,7 +664,7 @@
 				GCC_WARN_UNUSED_FUNCTION = NO;
 				GCC_WARN_UNUSED_LABEL = NO;
 				INFOPLIST_FILE = "AnyWall/AnyWall-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.parsewanderlust.Anywall;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wanderlust.Anywall;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -731,7 +731,7 @@
 				GCC_WARN_UNUSED_FUNCTION = NO;
 				GCC_WARN_UNUSED_LABEL = NO;
 				INFOPLIST_FILE = "AnyWall/AnyWall-Info.plist";
-				PRODUCT_BUNDLE_IDENTIFIER = com.parsewanderlust.Anywall;
+				PRODUCT_BUNDLE_IDENTIFIER = com.wanderlust.Anywall;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
@@ -741,7 +741,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "Anywall" */ = {
+		E56E83EC14D72E1100E856AB /* Build configuration list for PBXProject "AnyWall" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				E56E840E14D72E1100E856AB /* Debug */,

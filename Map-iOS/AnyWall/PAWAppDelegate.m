@@ -36,7 +36,7 @@ PAWSettingsViewControllerDelegate>
     // ****************************************************************************
     // Parse initialization
 //    [Parse setApplicationId:@"APPLICATION_ID" clientKey:@"CLIENT_KEY"];
-    [Parse setApplicationId:@"3PgC9mDgtQuTMJbUKtkjwHMdLU7sB6bLTfjuVqV3" clientKey:@"MbMc5ENqgUT6WaMFyXGGSOmAWvnCMXe9GVdMXCzP"];
+    [Parse setApplicationId:@"3PgC9mDgtQuTMJbUKtkjwHMdLU7sB6bLTfjuVqV3"         clientKey:@"MbMc5ENqgUT6WaMFyXGGSOmAWvnCMXe9GVdMXCzP"];
 
     
     // PFFacebookUtils initialization

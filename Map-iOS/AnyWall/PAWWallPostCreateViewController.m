@@ -47,6 +47,11 @@
 
     [self updateCharacterCountLabel];
     [self checkCharacterCount];
+    
+    PFObject *testObject = [PFObject objectWithClassName:@"TestObject"];
+    testObject[@"foo"] = @"bar";
+    [testObject saveInBackground];
+    
 }
 
 - (void)viewWillAppear:(BOOL)animated {

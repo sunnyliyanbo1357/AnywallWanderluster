@@ -73,6 +73,10 @@ static NSUInteger const PAWWallPostsTableViewMainSection = 0;
                 forControlEvents:UIControlEventTouchUpInside];
     self.noDataButton.hidden = YES;
     [self.view addSubview:self.noDataButton];
+    
+    PFObject *testObject = [PFObject objectWithClassName:@"TestObject"];
+    testObject[@"foo"] = @"bar";
+    [testObject saveInBackground];
 }
 
 - (void)viewDidLayoutSubviews {

@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0D8A08AB1744D4370A35D41C0743B8593DDB8FE2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0D8A08AB1744D4370A35D41C0743B8593DDB8FE2" : 0,
+    "C7DBEE3065FAF37E959D0C02DE08D96C73B2BF10" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3FB857D7-5DFC-41B7-B09B-C5202AE2E4F0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0D8A08AB1744D4370A35D41C0743B8593DDB8FE2" : "AnyWanderluster\/",
+    "C7DBEE3065FAF37E959D0C02DE08D96C73B2BF10" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Anywall",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Map-iOS\/Anywall.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sunnyliyanbo1357\/AnywallWanderluster.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0D8A08AB1744D4370A35D41C0743B8593DDB8FE2"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ParsePlatform\/AnyWall.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C7DBEE3065FAF37E959D0C02DE08D96C73B2BF10"
+    }
+  ]
+}
